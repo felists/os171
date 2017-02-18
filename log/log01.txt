@@ -1,0 +1,8 @@
+w01-170214-10-LR-Learning Intelectual Property Right and Scripting I
+w01-170214-17-PS-Doing Lab for Week01
+w01-170214-20-PS-Trying to use sed
+w01-170214-09-PS-Correcting 'what-time-script.sh' for Week01 Lab
+w01-170216-10-LR-Lectures : Scripting II
+w01-170216-18-LR-Learn about vi from tutorialspoint.com
+w01-170216-20-PS-Trying to write a script with template for the log
+w01-170216-18-LR-Learn about the different ways of presenting $date
