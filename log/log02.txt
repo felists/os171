@@ -1,0 +1,6 @@
+w02-170221-10-LR-Class: Protection and Security
+w02-170221-18-LR-Trying to use sftp but end up not using any
+w02-170221-20-LR-Rereading protection&security slide
+w02-170223-10-LR-Learning about privileges in class
+w02-170223-19-LR-Learning about c scripting
+w02-170225-09-SC-Doing Week02 Lab
