@@ -1,0 +1,9 @@
+w06-170411-10-LR-Learning In class about fork()
+w06-170411-11-LR-Learning In class about fork()
+w06-170413-10-LR-Learning fork() in class
+w06-170413-19-LR-Watch video about frking()
+w06`-170415-12-PS-Lab Week06
+w06-170415-13-PS-Lab Week06
+w06-170415-14-PS-Lab Week06
+w06-170415-14-PS-Lab Week06
+
